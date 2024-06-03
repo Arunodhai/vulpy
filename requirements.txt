@@ -1,5 +1,5 @@
 click==8.1.5
-cryptography==42.0.2
+cryptography==42.0.6
 Flask==3.0.0
 geoip2==4.8.0
 jsonschema==4.17.3
