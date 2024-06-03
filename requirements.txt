@@ -1,9 +1,10 @@
 click==8.1.5
 cryptography==42.0.2
-Flask==2.2.5
-geoip2==4.7.0
+Flask==3.0.0
+geoip2==4.8.0
 jsonschema==4.17.3
 PyJWT==2.5.0
 pyotp==2.9.0
 qrcode==7.4.2
 requests==2.31.0
+werkzeug==3.0.3
